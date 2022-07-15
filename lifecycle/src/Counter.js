@@ -22,9 +22,10 @@ const Counter = () => {
 
 	// this would be a useEffect call to fetch some data as soon as the component
 	// is mounted into the dom
-	useEffect(() => {
-		// fetch some data
-	}, [])
+	// useEffect(() => {
+	// 	//  fetch some data	
+	// }, [])
+
 
 
 	useEffect(() => {
